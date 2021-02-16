@@ -68,17 +68,6 @@
        y="-1398.4388"
        ry="423.15726"
        rx="423.15726" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:160px;line-height:1.25;font-family:sans-serif;fill:#2e3130;fill-opacity:1;stroke:none;stroke-width:4"
-       x="-196.80244"
-       y="-516.87762"
-       id="text945"><tspan
-         sodipodi:role="line"
-         id="tspan943"
-         x="-196.80244"
-         y="-516.87762"
-         style="fill:#2e3130;fill-opacity:1;stroke-width:4"></tspan></text>
     <path
        style="fill:#2d3436;fill-opacity:1;stroke:none;stroke-width:4.33256px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 185.46707,-978.74374 29.55477,-0.049 V 464.71238 H -1264.8502 v -63.32862 l 1451.77076,-0.99085 z"
