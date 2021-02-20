@@ -1,0 +1,8 @@
+.env
+
+# Project exclude paths
+/node_modules/
+/src/index.js
+.idea
+*.log
+/unsplasher.log
